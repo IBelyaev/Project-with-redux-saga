@@ -1,0 +1,20 @@
+{
+  "name": "my-first-project-with-gulp",
+  "version": "1.0.0",
+  "description": "In this project I'm trying to figure out with gulp. This is my first experience with the build system.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp start"
+  },
+  "author": "Anonym",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
